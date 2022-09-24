@@ -1,3 +1,6 @@
+[default]
+timeout = 180
+
 [mbcm-weekidol]
 title = "주간 아이돌"
 url = "https://program.naver.com/p/668287/clip"
@@ -6,5 +9,5 @@ titleSelector = "strong.ClipCard_title__2I1pd"
 linkSelector = "a.ClipCard_link__2XpqM"
 imageSelector = "img.ClipCard_img__2XgXF"
 contentSelector = "span.ClipCard_time__128vc"
-waitUntil = "networkidle"
+waitForSelector = "li.ClipCard_item__1ly4h"
 onFail = "stale"

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 May 2023 23:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 01:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.naver.com/v/35868596</guid>
             <pubDate>Fri, 12 May 2023 10:15:13 GMT</pubDate>
             <content:encoded><![CDATA[00:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20230512_240/sQucl_1683880947371twf8q_JPEG/CA202305170003.jpg?type=f246_140" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20230515_2/KbxBB_1684108892767hTb8T_JPEG/CA202305170003_01.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주간아이돌 613회 VERIVERY 편 예고 (주간 아이돌)]]></title>

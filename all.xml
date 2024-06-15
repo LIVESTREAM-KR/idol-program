@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jun 2024 09:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jun 2024 10:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주간아 세로캠] NEXZ TOMOYA- Ride the Vibe (넥스지 토모야 - 라이드 더 바이브) l EP.667 (주간 아이돌)]]></title>
+            <link>https://tv.naver.com/v/54501124</link>
+            <guid>https://tv.naver.com/v/54501124</guid>
+            <pubDate>Sat, 15 Jun 2024 10:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[03:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240614_28/m1Hn6_1718324192103l4iCd_JPEG/CA202406120095.jpg?type=f246_140" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주간아 세로캠] NEXZ YU- Ride the Vibe (넥스지 유우 - 라이드 더 바이브) l EP.667 (주간 아이돌)]]></title>
+            <link>https://tv.naver.com/v/54501123</link>
+            <guid>https://tv.naver.com/v/54501123</guid>
+            <pubDate>Sat, 15 Jun 2024 10:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[03:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240614_122/rNYPF_1718324190492bSDSO_JPEG/CA202406120094.jpg?type=f246_140" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[주간아이돌 668회 EVNNE(이븐)편 예고 (주간 아이돌)]]></title>
             <link>https://tv.naver.com/v/54540319</link>
@@ -67,22 +83,6 @@
             <title><![CDATA[[주간아 직캠 4K] NEXZ HYUI - Ride the Vibe (넥스지 휴이 - 라이드 더 바이브) l EP.667 (주간 아이돌)]]></title>
             <link>https://tv.naver.com/v/54154693</link>
             <guid>https://tv.naver.com/v/54154693</guid>
-            <pubDate>Wed, 12 Jun 2024 11:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[03:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240612_150/XOHEh_1718154395741n8MrM_JPEG/CA202406120012.jpg?type=f246_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠 4K] NEXZ SEITA - Ride the Vibe (넥스지 세이타 - 라이드 더 바이브) l EP.667 (주간 아이돌)]]></title>
-            <link>https://tv.naver.com/v/54154691</link>
-            <guid>https://tv.naver.com/v/54154691</guid>
-            <pubDate>Wed, 12 Jun 2024 11:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[03:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240612_64/Wqfe3_1718154394498brc1m_JPEG/CA202406120011.jpg?type=f246_140" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주간아 직캠 4K] NEXZ YUKI - Ride the Vibe (넥스지 유키 - 라이드 더 바이브) l EP.667 (주간 아이돌)]]></title>
-            <link>https://tv.naver.com/v/54153717</link>
-            <guid>https://tv.naver.com/v/54153717</guid>
             <pubDate>Wed, 12 Jun 2024 11:15:13 GMT</pubDate>
             <content:encoded><![CDATA[03:04]]></content:encoded>
             <enclosure url="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg==" length="0" type="image/image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAF12lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4gPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iQWRvYmUgWE1QIENvcmUgNS42LWMxNDUgNzkuMTYzNDk5LCAyMDE4LzA4LzEzLTE2OjQwOjIyICAgICAgICAiPiA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPiA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdEV2dD0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlRXZlbnQjIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnBob3Rvc2hvcD0iaHR0cDovL25zLmFkb2JlLmNvbS9waG90b3Nob3AvMS4wLyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgMjAxOSAoTWFjaW50b3NoKSIgeG1wOkNyZWF0ZURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNZXRhZGF0YURhdGU9IjIwMjAtMTEtMjVUMTg6NTk6MjQrMDk6MDAiIHhtcDpNb2RpZnlEYXRlPSIyMDIwLTExLTI1VDE4OjU5OjI0KzA5OjAwIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgeG1wTU06RG9jdW1lbnRJRD0iYWRvYmU6ZG9jaWQ6cGhvdG9zaG9wOjA5MzI1ZjAyLWEzMGMtZmQ0NS04OTI2LWM1MzU3MGM1ODk5NyIgeG1wTU06T3JpZ2luYWxEb2N1bWVudElEPSJ4bXAuZGlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHBob3Rvc2hvcDpDb2xvck1vZGU9IjMiPiA8eG1wTU06SGlzdG9yeT4gPHJkZjpTZXE+IDxyZGY6bGkgc3RFdnQ6YWN0aW9uPSJjcmVhdGVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmNlZjMzZjBlLWMzZDQtNGM4MC05OTk4LTU2YjkxNjY5YWZlMyIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiLz4gPHJkZjpsaSBzdEV2dDphY3Rpb249InNhdmVkIiBzdEV2dDppbnN0YW5jZUlEPSJ4bXAuaWlkOmZkNGNjMTYzLTBhNzktNDM2OS05ZmY4LWFhY2ExZjMwZmEzZiIgc3RFdnQ6d2hlbj0iMjAyMC0xMS0yNVQxODo1OToyNCswOTowMCIgc3RFdnQ6c29mdHdhcmVBZ2VudD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTkgKE1hY2ludG9zaCkiIHN0RXZ0OmNoYW5nZWQ9Ii8iLz4gPC9yZGY6U2VxPiA8L3htcE1NOkhpc3Rvcnk+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+6nnJ6AAAAMNJREFUeJzt0EENwDAQwLCuEMqf643D8pgq2QiiPDNzFp/tvwNuZ2BkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRgZGBkYGRg9AKbjAOvnOc+xAAAAABJRU5ErkJggg=="/>

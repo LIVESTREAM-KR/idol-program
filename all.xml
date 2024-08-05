@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 04:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 05:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://tv.naver.com/v/58631104</guid>
             <pubDate>Fri, 02 Aug 2024 10:17:37 GMT</pubDate>
             <content:encoded><![CDATA[00:30]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20240802_109/lkXaP_1722581793948spz52_JPEG/CA202408070001.jpg?type=f246_140" length="0" type="image/jpg"/>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20240805_64/uELvZ_17228334908005fYCO_JPEG/CA202408070001_01.jpg?type=f246_140" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[글로벌 K-POP 대표주자들의 인사 모음 ㅣ 주간아이돌 (주간 아이돌)]]></title>
